@@ -24,7 +24,7 @@
 
 ![Target Image \(Example\)](.gitbook/assets/icebar-friends-1.jpg)
 
-##                                          NOW YOU TRY! 😀
+## NOW YOU TRY! 😀
 
 {% page-ref page="now-guess-the-transformation.md" %}
 
