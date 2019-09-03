@@ -20,7 +20,7 @@
 
 ## **W**arm-Up Transformation Example: 
 
-### [https://res.cloudinary.com/demo/image/upload/l\_freezing-face-emoji,e\_tint:50:purple,g\_north\_west/icebar-friends.jpg](https://res.cloudinary.com/demo/image/upload/l_freezing-face-emoji,e_tint:50:purple,g_north_west/icebar-friends.jpg)
+#### [https://res.cloudinary.com/demo/image/upload/l\_freezing-face-emoji,e\_tint:50:purple,g\_north\_west/icebar-friends.jpg](https://res.cloudinary.com/demo/image/upload/l_freezing-face-emoji,e_tint:50:purple,g_north_west/icebar-friends.jpg)
 
 ![Target Image \(Example\)](.gitbook/assets/icebar-friends-1.jpg)
 
